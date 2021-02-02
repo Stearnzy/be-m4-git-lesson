@@ -9,5 +9,6 @@
 ![user profile](http://g.recordit.co/gZHJedkQpg.gif)
 #### Create User
 ![create user](http://g.recordit.co/gMVQ5COCtG.gif)
+Users now can be seen by index
 #### Cart
 ![index](http://g.recordit.co/YqznDMGdhY.gif)
