@@ -15,3 +15,5 @@ Professor Profile
 Users now can be seen by index
 #### Cart
 ![index](http://g.recordit.co/YqznDMGdhY.gif)
+
+Thanks for all your support!
